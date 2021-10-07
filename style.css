@@ -104,6 +104,10 @@ header ul li a{
 .heading h2{
     font-weight:600;
     font-size:30px;
+    color:blue;
+}
+.heading h3{
+    color:blue;
 }
 .content{
     display:flex;
@@ -114,10 +118,14 @@ header ul li a{
 }
 .contentBx h3{
 font-size:24px;
+color:blue;
 margin-bottom: 10px;
 }
+.about{
+     background-color:honeydew;
+}
 .w50{
-    min-width: 50%;
+    min-width: 20%;
 }
 img{
     max-width: 100%;
